@@ -1,4 +1,4 @@
-# Healthcare AI Assistant Suite
+# Jiva AI
 
 ## Overview
 This project offers a suite of AI tools for healthcare professionals, combining advanced technologies to enhance diagnosis and improve patient care:
